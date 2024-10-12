@@ -1,3 +1,6 @@
+![Visitor Count](https://profile-counter.glitch.me/{coder-mahi}/count.svg)
+
+
 ## Hi there 👋
 - 🔭 I’m currently working on private projects
 - 🌱 I’m currently learning BTech in Computer Engineering
