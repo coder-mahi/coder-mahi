@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m working on private projects
+- 🔭 I’m working on mini fullstack instagram clone
 - 🌱 I’m currently learning BTech in Computer Engineering
 - 💬 Ask me about Web and Android Development
 - 😄 Pronouns: he/him
