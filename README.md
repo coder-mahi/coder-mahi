@@ -1,4 +1,4 @@
-[![MasterHead](https://photos.app.goo.gl/a446DtKv12s93omJ9)](https://rishavchanda.io)
+[![MasterHead](https://photos.app.goo.gl/a446DtKv12s93omJ9)
 
 <h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
 <h3 align="center">A passionate Full Stack Web Developer | Android Developer from India</h3>
