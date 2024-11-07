@@ -1,4 +1,4 @@
-[![MasterHead](https://photos.app.goo.gl/a446DtKv12s93omJ9)
+[![MasterHead](https://cdn.vectorstock.com/i/1000v/07/19/software-development-programming-coding-vector-29570719.avif)
 
 <h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
 <h3 align="center">A passionate Full Stack Web Developer | Android Developer from India</h3>
