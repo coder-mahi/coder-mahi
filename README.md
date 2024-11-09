@@ -69,4 +69,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-mahi&label=Profile%20views&color=0e75b6&style=flat" alt="coder-mahi" /> </p>
 
+![SVG Example](/assets/github-snake.svg)
 
+![GIF Example](/assets/CLine.gif)
