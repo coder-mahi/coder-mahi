@@ -59,11 +59,9 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="40" height="40"/> </a></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-mahi&show_icons=true&locale=en&layout=compact" alt="coder-mahi" /></p>
-<br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-mahi&show_icons=true&locale=en" alt="coder-mahi" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder_mahi&" alt="coder-mahi" /></p>
+
+
+https://github-readme-stats.vercel.app/api/top-langs?username=coder-mahi&show_icons=true&locale=en&layout=compact
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-mahi" alt="coder-mahi" /></a> </p>
 
