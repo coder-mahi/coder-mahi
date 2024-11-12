@@ -61,7 +61,11 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="40" height="40"/> </a></p>
 
 
-https://github-readme-stats.vercel.app/api/top-langs?username=coder-mahi&show_icons=true&locale=en&layout=compact
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-mahi" alt="coder-mahi" /></a> </p>
 
