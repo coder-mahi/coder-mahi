@@ -5,20 +5,15 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
+### 🌟 About Me  
+🔭 I’m currently working on **Private Projects**  
+🌱 I’m currently learning **React, React-Native**  
+👨‍💻 All of my projects are available at [My Portfolio](https://shindemaheshportfolio.netlify.app/)  
+💬 Ask me about **Web Development | Android Development**  
+📫 Reach me at: **maheshshinde9100@gmail.com**  
+📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
+⚡ Fun fact: **I think I'm Extrovert**  
 
-- 🔭 I’m currently working on **Private Projects**
-
-- 🌱 I’m currently learning **react, react-native**
-
-- 👨‍💻 All of my projects are available at [https://shindemaheshportfolio.netlify.app/](https://shindemaheshportfolio.netlify.app/)
-
-- 💬 Ask me about **web development | Android Development**
-
-- 📫 How to reach me **maheshshinde9100@gmail.com**
-
-- 📄 Know about my experiences [https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)
-
-- ⚡ Fun fact **I think I'm Extrovert**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
