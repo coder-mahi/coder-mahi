@@ -4,6 +4,7 @@
 ![MasterHead](https://cdn.vectorstock.com/i/500p/73/74/programmer-develop-code-doodle-concept-developer-vector-41927374.avif)
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+<br/>
 
 ### 🌟 About Me  
 🔭 I’m currently working on **Private Projects**  
