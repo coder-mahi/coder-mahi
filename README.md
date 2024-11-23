@@ -6,14 +6,13 @@
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 <br>
 ### 🌟 About Me  
-- 🔭 I’m currently working on **Private Projects**  
-- 🌱 I’m currently learning **React, React-Native**  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://shindemaheshportfolio.netlify.app/)  
-- 💬 Ask me about **Web Development | Android Development**  
-- 📫 Reach me at: **maheshshinde9100@gmail.com**  
-- 📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
-- ⚡ Fun fact: **I think I'm Extrovert**  
-
+🔭 I’m currently working on **Private Projects**  
+🌱 I’m currently learning **React, React-Native**  
+👨‍💻 All of my projects are available at [My Portfolio](https://shindemaheshportfolio.netlify.app/)  
+💬 Ask me about **Web Development | Android Development**  
+📫 Reach me at: **maheshshinde9100@gmail.com**  
+📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
+⚡ Fun fact: **I think I'm Extrovert**  
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -56,8 +55,8 @@
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="40" height="40"/> </a></p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
