@@ -78,173 +78,57 @@
 
 
 
+# Hi 👋, I'm Mahesh Shinde  
+A passionate Full Stack Web Developer from India  
 
+---
 
+## ![MasterHead](https://cdn.vectorstock.com/i/500p/73/74/programmer-develop-code-doodle-concept-developer-vector-41927374.avif)  
 
+### 🌟 About Me  
+🔭 I’m currently working on **Private Projects**  
+🌱 I’m currently learning **React, React-Native**  
+👨‍💻 All of my projects are available at [My Portfolio](https://shindemaheshportfolio.netlify.app/)  
+💬 Ask me about **Web Development | Android Development**  
+📫 Reach me at: **maheshshinde9100@gmail.com**  
+📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
+⚡ Fun fact: **I think I'm Extrovert**  
 
+---
 
+### Connect with Me  
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/mahesh-shinde-0a666b23b)  
+[![Stack Overflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)](https://stackoverflow.com/users/22119667)  
+[![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/mahesh9100)  
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mahi_shinde01)  
+[![HackerRank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg)](https://www.hackerrank.com/maheshshinde9100)  
+[![LeetCode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)](https://leetcode.com/u/coder-mahi/)  
+[![GeeksforGeeks](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://auth.geeksforgeeks.org/user/coder_mahi/)  
 
+---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mahesh Shinde</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
+### 🛠️ Languages and Tools  
+![Android](https://www.svgrepo.com/show/475631/android-color.svg)  
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)  
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)  
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)  
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)  
 
-        h1, h3 {
-            color: #444;
-        }
+---
 
-        a {
-            text-decoration: none;
-            color: #007bff;
-            transition: color 0.3s;
-        }
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
 
-        a:hover {
-            color: #0056b3;
-        }
+---
 
-        img {
-            border-radius: 5px;
-        }
+### 🏆 GitHub Trophies  
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=coder-mahi)](https://github.com/ryo-ma/github-profile-trophy)  
 
-        .container {
-            text-align: center;
-            margin: 20px;
-        }
+---
 
-        .header img {
-            width: 100%;
-            max-height: 300px;
-            object-fit: cover;
-        }
-
-        .coding-img {
-            margin-top: 20px;
-            max-width: 400px;
-            height: auto;
-            border-radius: 8px;
-        }
-
-        .social-icons img {
-            margin: 0 10px;
-            height: 30px;
-            width: 40px;
-            vertical-align: middle;
-        }
-
-        .tools-icons img {
-            margin: 10px;
-            width: 40px;
-            height: 40px;
-        }
-
-        .stats img {
-            margin: 10px;
-            width: 90%;
-            max-width: 500px;
-            border-radius: 8px;
-        }
-
-        .trophy img {
-            margin: 10px auto;
-        }
-
-        .profile-views img {
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <img src="https://cdn.vectorstock.com/i/500p/73/74/programmer-develop-code-doodle-concept-developer-vector-41927374.avif" alt="MasterHead">
-        </div>
-
-        <h1>Hi 👋, I'm Mahesh Shinde</h1>
-        <h3>A passionate Full Stack Web Developer from India</h3>
-
-        <img class="coding-img" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp" alt="coding">
-
-        <!-- About -->
-        <p>
-            🔭 I’m currently working on <strong>Private Projects</strong><br>
-            🌱 I’m currently learning <strong>React, React-Native</strong><br>
-            👨‍💻 All of my projects are available at 
-            <a href="https://shindemaheshportfolio.netlify.app/">My Portfolio</a><br>
-            💬 Ask me about <strong>Web Development | Android Development</strong><br>
-            📫 Reach me at: <strong>maheshshinde9100@gmail.com</strong><br>
-            📄 Know about my experiences: 
-            <a href="https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc">Resume</a><br>
-            ⚡ Fun fact: <strong>I think I'm Extrovert</strong>
-        </p>
-
-        <!-- Connect -->
-        <h3>Connect with me:</h3>
-        <div class="social-icons">
-            <a href="https://linkedin.com/in/mahesh-shinde-0a666b23b" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
-            </a>
-            <a href="https://stackoverflow.com/users/22119667" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow">
-            </a>
-            <a href="https://www.kaggle.com/mahesh9100" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle">
-            </a>
-            <a href="https://instagram.com/mahi_shinde01" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram">
-            </a>
-            <a href="https://www.hackerrank.com/maheshshinde9100" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank">
-            </a>
-            <a href="https://leetcode.com/u/coder-mahi/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode">
-            </a>
-            <a href="https://auth.geeksforgeeks.org/user/coder_mahi/" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks">
-            </a>
-        </div>
-
-        <!-- Languages and Tools -->
-        <h3>Languages and Tools:</h3>
-        <div class="tools-icons">
-            <img src="https://www.svgrepo.com/show/475631/android-color.svg" alt="Android">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3">
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
-        </div>
-
-        <!-- GitHub Stats -->
-        <div class="stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-        </div>
-
-        <!-- Trophies -->
-        <div class="trophy">
-            <a href="https://github.com/ryo-ma/github-profile-trophy">
-                <img src="https://github-profile-trophy.vercel.app/?username=coder-mahi" alt="GitHub Trophies">
-            </a>
-        </div>
-
-        <!-- Profile Views -->
-        <div class="profile-views">
-            <img src="https://komarev.com/ghpvc/?username=coder-mahi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-        </div>
-    </div>
-</body>
-</html>
+### 🔢 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=coder-mahi&label=Profile%20views&color=0e75b6&style=flat)  
