@@ -63,7 +63,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
+<br/>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-mahi" alt="coder-mahi" /></a> </p>
 
