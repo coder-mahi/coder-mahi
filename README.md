@@ -1,8 +1,5 @@
 <<<<<<< HEAD
-<h1 align="center">Hi 👋, I'm Mahesh Shinde<img src="/assets/stats.gif" width="50"></h1>
-=======
-<h1 align="center">Hi 👋, I'm Mahesh Shinde<img src"/assets/stats.gif" width="50"></h1>
->>>>>>> e99359e18b56966966bb52844e157afe1a165414
+<h1 align="center">Hi 👋, I'm Mahesh Shinde   <img src="/assets/stats.gif" width="50"></h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 ![MasterHead](/assets/header.png)
