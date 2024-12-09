@@ -57,7 +57,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="40" height="40"/> </a></p>
 
-<br/><br/>
+<br/>
 ![GIF Example](/assets/CLine.gif)
 
 <div align="center">
@@ -68,6 +68,9 @@
 <br/>
 <!-- <p align="left"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="coder-mahi" /> </p>  -->
 
-![SVG Example](/assets/github-snake.svg)
+<!-- ![SVG Example](/assets/github-snake.svg) -->
+<div align="center">
+    <img src="/assets/github-snake.svg" alt="SVG Example">
+</div>
 
 ![GIF Example](/assets/CLine.gif)
