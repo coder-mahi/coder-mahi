@@ -66,7 +66,7 @@
 </div>
 <br/>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="coder-mahi" /> </p> 
+<!-- <p align="left"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="coder-mahi" /> </p>  -->
 
 ![SVG Example](/assets/github-snake.svg)
 
