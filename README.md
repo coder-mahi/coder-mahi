@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
 <h3 align="center">A passionate Full Stack Web Developer | Android Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
-
+<!-- <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"> -->
+<img align="right" alt="coding" width="400" src="/assets/header.png">
 
 - 🔭 I’m currently working on **Private Projects**
 
