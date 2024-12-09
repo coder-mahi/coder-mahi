@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 ![MasterHead](/assets/header.png)
-
-=======
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 <br/>
 
@@ -15,8 +13,6 @@
 📫 Reach me at: **maheshshinde9100@gmail.com**  
 📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
 ⚡ Fun fact: **I think I'm Extrovert**  
-
->>>>>>> 994908d6dd14250c5ba4adb9ce7bdc9305ec8074
 
 <br/><br/>
 <h3 align="center">Connect with me:</h3>
