@@ -1,30 +1,35 @@
+<h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+
 ![MasterHead](https://cdn.vectorstock.com/i/500p/73/74/programmer-develop-code-doodle-concept-developer-vector-41927374.avif)
 
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
 <h3 align="center">A passionate Full Stack Web Developer | Android Developer from India</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"> -->
 <img align="right" alt="coding" width="400" src="/assets/header.png">
+=======
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+<br/>
 
-- 🔭 I’m currently working on **Private Projects**
+### 🌟 About Me  
+🔭 I’m currently working on **Private Projects**  
+🌱 I’m currently learning **React, React-Native**  
+👨‍💻 All of my projects are available at [My Portfolio](https://shindemaheshportfolio.netlify.app/)  
+💬 Ask me about **Web Development | Android Development**  
+📫 Reach me at: **maheshshinde9100@gmail.com**  
+📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
+⚡ Fun fact: **I think I'm Extrovert**  
 
-- 🌱 I’m currently learning **react, react-native**
+>>>>>>> 994908d6dd14250c5ba4adb9ce7bdc9305ec8074
 
-- 👨‍💻 All of my projects are available at [https://shindemaheshportfolio.netlify.app/](https://shindemaheshportfolio.netlify.app/)
-
-- 💬 Ask me about **web development | Android Development**
-
-- 📫 How to reach me **maheshshinde9100@gmail.com**
-
-- 📄 Know about my experiences [https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)
-
-- ⚡ Fun fact **I think I'm Extrovert**
-
+<br/><br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mahesh-shinde-0a666b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-shinde-0a666b23b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22119667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22119667" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mahesh9100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mahesh9100" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/https://www.kaggle.com/mahesh9100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mahesh9100" height="30" width="40" /></a> -->
 <a href="https://instagram.com/mahi_shinde01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahi_shinde01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/maheshshinde9100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maheshshinde9100" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/coder-mahi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/coder-mahi/" height="30" width="40" /></a>
@@ -59,15 +64,16 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="40" height="40"/> </a></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-mahi&show_icons=true&locale=en&layout=compact" alt="coder-mahi" /></p>
-<br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-mahi&show_icons=true&locale=en" alt="coder-mahi" /></p>
-<br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder_mahi&" alt="coder-mahi" /></p>
+<br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-mahi" alt="coder-mahi" /></a> </p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-mahi&label=Profile%20views&color=0e75b6&style=flat" alt="coder-mahi" /> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="coder-mahi" /> </p> 
 
 ![SVG Example](/assets/github-snake.svg)
 
