@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-![MasterHead](https://cdn.vectorstock.com/i/500p/73/74/programmer-develop-code-doodle-concept-developer-vector-41927374.avif)
+![MasterHead](/assets/header.png)
 
-<<<<<<< HEAD
-<h1 align="center">Hi 👋, I'm Mahesh Shinde</h1>
-<h3 align="center">A passionate Full Stack Web Developer | Android Developer from India</h3>
-
-<!-- <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"> -->
-<img align="right" alt="coding" width="400" src="/assets/header.png">
 =======
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 <br/>
