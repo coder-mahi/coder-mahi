@@ -16,7 +16,7 @@
 📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
 ⚡ Fun fact: **I think I'm Extrovert**  
 
-<br/>
+<br/><br/><br/><br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mahesh-shinde-0a666b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh-shinde-0a666b23b" height="30" width="40" /></a>
