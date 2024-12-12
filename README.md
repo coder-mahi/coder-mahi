@@ -4,8 +4,10 @@
 <a href="#" onclick="return false;">
   <img alt="MasterHead" src="/assets/header.png">
 </a>
-<br/><br/>
-![GIF Example](/assets/CLine.gif)
+<br/>
+<a href="#" onclick="return false;">
+  <img alt="GIF Example" src="/assets/CLine.gif">
+</a>
 
 <a href="#" onclick="return false;">
   <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
