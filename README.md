@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahesh Shinde   <img src="/assets/stats.gif" width="50"></h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
-![MasterHead](/assets/header.png)
+<a href="#" onclick="return false;">
+  <img alt="MasterHead" src="/assets/header.png">
+</a>
 <br/><br/>
 ![GIF Example](/assets/CLine.gif)
 
