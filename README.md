@@ -10,7 +10,7 @@
 </a>
 
 <a href="#" onclick="return false;">
-  <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+  <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 </a>
 
 ### 🌟 About Me  
