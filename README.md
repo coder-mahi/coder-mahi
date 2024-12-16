@@ -12,6 +12,7 @@
 <a href="#" onclick="return false;">
   <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 </a>
+
 ### 🌟 About Me  
 🔭 I’m currently working on **Private Projects**  
 🌱 I’m currently learning **React, React-Native**  
@@ -20,6 +21,7 @@
 📫 Reach me at: **maheshshinde9100@gmail.com**  
 📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
 ⚡ Fun fact: **I think I'm Extrovert**  
+
 <br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
