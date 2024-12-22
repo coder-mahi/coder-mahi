@@ -64,7 +64,6 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="40" height="40"/> </a></p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/43a533e8-16e0-456b-b191-37f63b943feb/deploy-status)](https://app.netlify.com/sites/insta-clone-by-mahesh-shinde/deploys)
 <!-- ![GIF Example](/assets/CLine.gif) -->
 <div align="center">
     <img src="/assets/CLine.gif" alt="GIF Example">
@@ -81,6 +80,7 @@
 <!-- <p align="left"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="coder-mahi" /> </p>  -->
 
 <!-- ![SVG Example](/assets/github-snake.svg) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43a533e8-16e0-456b-b191-37f63b943feb/deploy-status)](https://app.netlify.com/sites/insta-clone-by-mahesh-shinde/deploys)
 <div align="center">
     <img src="/assets/github-snake.svg" alt="SVG Example">
 </div>
