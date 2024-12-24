@@ -80,6 +80,11 @@
 <!-- <p align="left"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="coder-mahi" /> </p>  -->
 
 <!-- ![SVG Example](/assets/github-snake.svg) -->
+<div align="center">
+  <a href="https://app.netlify.com/sites/insta-clone-by-mahesh-shinde/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/43a533e8-16e0-456b-b191-37f63b943feb/deploy-status" alt="Netlify Status"/>
+  </a>
+</div>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/43a533e8-16e0-456b-b191-37f63b943feb/deploy-status)](https://app.netlify.com/sites/insta-clone-by-mahesh-shinde/deploys)
 <div align="center">
     <img src="/assets/github-snake.svg" alt="SVG Example">
