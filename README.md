@@ -69,6 +69,7 @@
     <img src="/assets/CLine.gif" alt="GIF Example">
 </div>
 <div align="center"> <img src="https://leetcode-stats.vercel.app/api?username=coder-mahi&theme=Dark" alt="coder-mahi's LeetCode Stats"></div>
+<br/>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=coder-mahi&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
