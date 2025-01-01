@@ -84,7 +84,6 @@
     <img src="https://api.netlify.com/api/v1/badges/43a533e8-16e0-456b-b191-37f63b943feb/deploy-status" alt="Netlify Status"/>
   </a>
 </div>
-<br/>
 <div align="center">
     <img src="/assets/github-snake.svg" alt="SVG Example">
 </div>
