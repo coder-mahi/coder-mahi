@@ -88,7 +88,7 @@
 </div>
 <div align="center">
   <a href="#" onclick="return false;">
-<img align="right" alt="coding" width="250" height="250" src="https://camo.githubusercontent.com/417eb0441e2e632d497f8bccca6845a75f5974743a8ae1f8fbe64b794a0e53dc/68747470733a2f2f692e696d67666c69702e636f6d2f363565667a6f2e676966">
+<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/417eb0441e2e632d497f8bccca6845a75f5974743a8ae1f8fbe64b794a0e53dc/68747470733a2f2f692e696d67666c69702e636f6d2f363565667a6f2e676966">
 </a>
 </div>
 <div align="center">
