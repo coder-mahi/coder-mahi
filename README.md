@@ -88,9 +88,13 @@
 </div>
 <br/>
 <div align="center">
-  <img align="center" alt="coding" width="250" src="https://camo.githubusercontent.com/417eb0441e2e632d497f8bccca6845a75f5974743a8ae1f8fbe64b794a0e53dc/68747470733a2f2f692e696d67666c69702e636f6d2f363565667a6f2e676966">
+  <img align="center" alt="coding" width="250" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
+  <img align="center" alt="coding" width="250" src="https://assets.leetcode.com/static_assets/others/2550.gif">
+  <img align="center" alt="pandas" width="250" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif">
   <br>
-    <img src="/assets/github-snake.svg" alt="SVG Example">
+  <img align="center" src="/assets/github-snake.svg" alt="Snake Animation" width="100%">
 </div>
+
+
 
 ![GIF Example](/assets/CLine.gif)
