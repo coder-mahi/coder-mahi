@@ -88,9 +88,9 @@
 </div>
 <br/>
 <div align="center">
-  <img align="center" alt="coding" width="250" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-  <img align="center" alt="coding" width="250" src="https://assets.leetcode.com/static_assets/others/2550.gif">
-  <img align="center" alt="pandas" width="250" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif">
+  <img align="center" alt="coding" width="200" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
+  <img align="center" alt="coding" width="200" src="https://assets.leetcode.com/static_assets/others/2550.gif">
+  <img align="center" alt="pandas" width="200" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif">
   <br>
   <img align="center" src="/assets/github-snake.svg" alt="Snake Animation" width="100%">
 </div>
