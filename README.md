@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **React, React-Native**  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://shindemaheshportfolio.netlify.app/)  
 - 💬 Ask me about **Web Development | Android Development**  
-- 📫 Reach me at: **maheshshinde9100@gmail.com**  
+- 📫 Reach me at: **contact.shindemahesh2112@gmail.com**  
 - 📄 Know about my experiences: [Resume](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)  
 - ⚡ Fun fact: **I think I'm Extrovert**  
 
