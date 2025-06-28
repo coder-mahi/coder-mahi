@@ -1,5 +1,5 @@
 # ⟨ MAHESH SHINDE ⟩ 
-### `> Full Stack Developer | Android Developer`
+### `> Full Stack Web Developer | Android Application Developer`
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 ```yaml
 Developer: Mahesh Shinde
-Status: ⚡ Active Development Mode
+Status: ⚡ Active Development + DSA Mode
 Location: India 🇮🇳
 Focus: Full Stack Web Development
 Mission: Transforming Ideas into Digital Reality
@@ -64,10 +64,10 @@ const currentFocus = {
 ```python
 skills = {
     "frontend": ["React", "JavaScript", "HTML5", "CSS3"],
-    "backend": ["Java", "Python", "Spring Boot"],
-    "mobile": ["Android", "React Native"],
-    "database": ["MongoDB", "MySQL", "Oracle"],
-    "tools": ["Git", "Postman", "Figma"]
+    "backend": ["Java", "Spring Boot", "Node Js"],
+    "mobile": ["Android", "XML"],
+    "database": ["MongoDB", "MySQL", "Redis"],
+    "tools": ["Git", "Sonarqube", "Maven"]
 }
 ```
 
