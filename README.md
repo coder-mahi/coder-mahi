@@ -77,10 +77,10 @@ skills = {
 ### 🌐 **NETWORK PROTOCOLS**
 ```bash
 # Social Connections
-linkedin.connect("mahesh-shinde-0a666b23b")
+linkedin.connect("maheshshinde9100")
 instagram.follow("mahi_shinde01")
 stackoverflow.profile(22119667)
-leetcode.user("coder-mahi")
+leetcode.user("coder-with-mahesh")
 hackerrank.user("maheshshinde9100")
 geeksforgeeks.user("coder_mahi")
 ```
