@@ -224,7 +224,7 @@ geeksforgeeks.user("coder_mahi")
 
 ### **⚡ CURRENT POWER LEVEL: OVER 9000!**
 
-<img src="https://komarev.com/ghpvc/?username=maheshshinde9100&style=for-the-badge&color=00F5FF" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=coder-mahi&style=for-the-badge&color=00F5FF" alt="Profile Views" />
 
 </div>
 
