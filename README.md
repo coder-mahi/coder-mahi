@@ -175,10 +175,10 @@ geeksforgeeks.user("coder_mahi")
   <img align="center" src="/assets/github-snake.svg" alt="Snake Animation" width="100%">
 
 ### **🏅 ACHIEVEMENT BADGES**
-<img src="https://github-profile-trophy.vercel.app/?username=coder-mahi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=maheshshinde9100&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 ### **📈 ACTIVITY GRAPH**
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coder-mahi&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshshinde9100&theme=tokyo-night&hide_border=true)](https://github.com/maheshshinde9100/github-readme-activity-graph)
 
 </div>
 
@@ -194,7 +194,7 @@ geeksforgeeks.user("coder_mahi")
 └─────────────────────────────────────┘
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-shinde-0a666b23b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshshinde9100)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mahi_shinde01)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22119667)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/coder-mahi/)
@@ -224,7 +224,7 @@ geeksforgeeks.user("coder_mahi")
 
 ### **⚡ CURRENT POWER LEVEL: OVER 9000!**
 
-<img src="https://komarev.com/ghpvc/?username=coder-mahi&style=for-the-badge&color=00F5FF" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=maheshshinde9100&style=for-the-badge&color=00F5FF" alt="Profile Views" />
 
 </div>
 
