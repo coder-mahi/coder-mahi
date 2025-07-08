@@ -140,11 +140,11 @@ geeksforgeeks.user("coder_mahi")
 <div align="center">
 
 ### **⚡ GITHUB ANALYTICS**
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coder-mahi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-mahi&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=maheshshinde9100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=tokyonight&hide_border=true" />
 
 ### **🎯 CODING DISTRIBUTION**
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coder-mahi&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshinde9100&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 
 ### **🏆 LEETCODE ACHIEVEMENTS**
 <img src="https://leetcode-stats.vercel.app/api?username=code-with-mahesh&theme=dark" />
