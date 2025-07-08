@@ -78,6 +78,7 @@ skills = {
 ```bash
 # Social Connections
 linkedin.connect("maheshshinde9100")
+linktree.visit("mahesh.dev")
 instagram.follow("mahi_shinde01")
 stackoverflow.profile(22119667)
 leetcode.user("coder-with-mahesh")
