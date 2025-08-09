@@ -1,3 +1,11 @@
+## 📊 LeetCode Stats (Auto Updated)
+
+<!-- LEETCODE:START -->
+Fetching latest data...
+<!-- LEETCODE:END -->
+
+
+
 # MAHESH.DEV
 ### `> Full Stack Java Developer | Android Application Developer | Competitive programmer`
 
