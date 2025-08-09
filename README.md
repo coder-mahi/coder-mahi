@@ -1,11 +1,3 @@
-## 📊 LeetCode Stats (Auto Updated)
-
-<!-- LEETCODE:START -->
-Fetching latest data...
-<!-- LEETCODE:END -->
-
-
-
 # MAHESH.DEV
 ### `> Full Stack Java Developer | Android Application Developer | Competitive programmer`
 
@@ -292,13 +284,22 @@ public class FeaturedProject {
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/)
 
 ### **🔥 COMPETITIVE PROGRAMMING STATS**
+
+## 📊 LeetCode Stats (Auto Updated)
+
+<!-- LEETCODE:START -->
+**Total Solved:** 288  
+**Easy:** 153 | **Medium:** 119 | **Hard:** 16  
+**Global Rank:** 399,545
+<!-- LEETCODE:END -->
+
 ```cpp
 class CompetitiveProgrammer {
 private:
     string name = "Mahesh Shinde";
-    int leetcode_problems = 280;
-    int streak_days = 100;
-    string rank = "401,143 / 2M+ users";
+    int leetcode_problems = 288;
+    int streak_days = 100+;
+    string rank = "390,143 / 2M+ users";
     int gcp_badges = 28;
     int gcp_points = 26411;
     
