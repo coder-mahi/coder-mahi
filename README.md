@@ -1,5 +1,5 @@
 # MAHESH.DEV
-### `> Full Stack Engineer | Mobile App Developer | Problem Solver`
+### `> Full Stack Java Developer | Android Application Developer | Competitive programmer`
 
 <div align="center">
 
@@ -41,7 +41,7 @@ LeetCode: 280+ Problems Solved | 100-day Streak 🔥
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://shindemaheshportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://maheshshinde-dev.vercel.app)
 [![Resume](https://img.shields.io/badge/📋_RESUME-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://maheshshinde9100.hackerresume.io/cdbe784f-7325-4ca3-a047-9a2c4ec314cc)
 [![Email](https://img.shields.io/badge/📧_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.shindemahesh2112@gmail.com)
 
@@ -129,10 +129,16 @@ const activeProjects: ProjectStatus[] = [
     performance: "95% accuracy across 7+ languages"
   },
   {
-    name: "Student Mentoring System",
-    tech: ["Java", "Android", "SQLite", "PHP"],
+    name: "NeonQuiz",
+    tech: ["HTML", "CSS", "Javascript"],
     status: "production",
-    users: 50
+    performance: "100% working with quiz generation to score breakdown"
+  },
+  {
+    name: "Student Mentoring System",
+    tech: ["Java", "Gradle", "Android Studio", "PHPMyAdmin"],
+    status: "Production",
+    users: 131
   }
 ];
 ```
@@ -145,7 +151,7 @@ cd professional-network/
 
 ./connect.sh --linkedin --user=maheshshinde9100
 ./connect.sh --leetcode --user=code-with-mahesh
-./connect.sh --portfolio --url=shindemaheshportfolio.netlify.app
+./connect.sh --portfolio --url=maheshshinde-dev.vercel.app
 ./connect.sh --email --address=maheshshinde9100@gmail.com
 
 echo "Let's build something amazing together! 🤝"
@@ -201,7 +207,8 @@ echo "Let's build something amazing together! 🤝"
 
 ### **📈 GITHUB STATISTICS**
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=maheshshinde9100&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Analytics" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=radical&hide_border=true" />
+
+<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshshinde9100&theme=radical&hide_border=true" /> -->
 
 ### **💻 CODING LANGUAGE DISTRIBUTION**
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshshinde9100&theme=radical&hide_border=true&layout=compact&langs_count=10&custom_title=Language%20Stats" />
@@ -247,7 +254,8 @@ public class FeaturedProject {
 
 [![MenteeConnect](https://img.shields.io/badge/🤝_MenteeConnect-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/maheshshinde9100)
 [![CodeComplexityAI](https://img.shields.io/badge/🤖_CodeComplexityAI-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://code-complexity-ai.vercel.app)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://shindemaheshportfolio.netlify.app/)
+[![CodeComplexityAI](https://img.shields.io/badge/👽_NeonQuiz-e7b910?style=for-the-badge&logo=vercel&logoColor=white)](https://neonquiz-by-mahesh.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://maheshshinde-dev.vercel.app)
 
 ### **🎯 PROJECT METRICS**
 ```
