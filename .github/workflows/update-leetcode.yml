@@ -1,0 +1,38 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch LeetCode Stats
+        run: |
+          curl -s https://leetcode-api-faisalshohag.vercel.app/code-with-mahesh > leetcode.json
+          TOTAL_SOLVED=$(jq '.totalSolved' leetcode.json)
+          EASY_SOLVED=$(jq '.easySolved' leetcode.json)
+          MEDIUM_SOLVED=$(jq '.mediumSolved' leetcode.json)
+          HARD_SOLVED=$(jq '.hardSolved' leetcode.json)
+          RANK=$(jq '.ranking' leetcode.json)
+
+          # Prepare the markdown content
+          CONTENT="**Total Solved:** ${TOTAL_SOLVED}  
+**Easy:** ${EASY_SOLVED} | **Medium:** ${MEDIUM_SOLVED} | **Hard:** ${HARD_SOLVED}  
+**Global Rank:** ${RANK}"
+
+          # Replace in README
+          sed -i "/<!-- LEETCODE:START -->/,/<!-- LEETCODE:END -->/c\\<!-- LEETCODE:START -->\n${CONTENT}\n<!-- LEETCODE:END -->" README.md
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated LeetCode stats"
+          git push
