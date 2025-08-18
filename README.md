@@ -40,13 +40,15 @@
   <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="55" height="55"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="55" height="55"/>  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Adrduino IDE" width="55" height="55"/>
 </p>
 
 
