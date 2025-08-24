@@ -18,7 +18,7 @@
 - 🔭 **Currently working on:** Microservices Architecture & Cloud Deployment
 - 🌱 **Learning:** Kotlin, Advanced System Design, Cloud Architecture
 - 💼 **Experience:** 3+ years in Full Stack Development
-- 🏆 **Achievements:** 290+ LeetCode problems solved, 150+ day streak
+- 🏆 **Achievements:** 298+ LeetCode problems solved, 186+ day streak
 - ☁️ **Cloud:** Google Cloud Platform certified (28 Skill Badges, 26,411 Points)
 - 👥 **Leadership:** Led teams of 4+ developers on production applications
 - 📈 **Impact:** Built applications serving 100+ users with 99.9% uptime
@@ -99,7 +99,7 @@
 
 | 🏆 Achievement | 📊 Details |
 |:---|:---|
-| **LeetCode** | 290+ Problems Solved • 150+ Day Streak • Global Rank ~391k/2M+ |
+| **LeetCode** | 298+ Problems Solved • 186+ Day Streak • Global Rank ~386k/2M+ |
 | **Google Cloud** | 28 Skill Badges • 26,411 Points • Hands-on Labs & Quests |
 | **Academic Excellence** | Diploma: 91.37% • SSC: 89.40% • Outstanding Extracurricular Award 2024 |
 | **Professional Certs** | Java • React.js • JavaScript • Python • HackerRank Certified |
@@ -153,8 +153,8 @@ const maheshDNA = {
 </div> -->
 
 ### 🎯 2024 Goals Tracker
-- ✅ **290+ LeetCode Problems** - Achieved!
-- ✅ **150+ Day Coding Streak** - Achieved!
+- ✅ **298+ LeetCode Problems** - Achieved!
+- ✅ **186+ Day Coding Streak** - Achieved!
 - ✅ **Lead Production Applications** - Achieved!
 - 🔄 **Master Microservices Architecture** - In Progress
 - 🔄 **Contribute to 5+ Open Source Projects** - In Progress
