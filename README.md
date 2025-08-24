@@ -166,7 +166,7 @@ const maheshDNA = {
 ## 📈 Competitive Programming
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/code-with-mahesh?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/code-with-mahesh?theme=dark&font=Sunflower&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 ---
